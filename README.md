@@ -2,15 +2,13 @@
 
 ##Description
 
-This repository was created to story the supplementary material of the article: GENETIC EVALUATION AND SELECTION IN JATROPHA CURCAS THROUGH FREQUENTIST AND BAYESIAN INFERENCES, submitted to the journal BRAGANTIA.
+This repository was created to story the supplementary material of the article published in the journal BRAGANTIA.
 
-Title: GENETIC EVALUATION AND SELECTION IN JATROPHA CURCAS THROUGH FREQUENTIST AND BAYESIAN INFERENCES
+**Title**: Genetic evaluation and selection in <i>Jatropha curcas<i> through Frequentist and Bayesian inferences
 
-Year: 2022
+**Author**: Evangelista, J.S.P.C., Peixoto, M.A., Coelho, I., Alves, R., Resende, M.D.V., Silva, F.F., Laviola, B. and Bhering, L.L.
 
-Author: Evangelista et al.
-
-Doi:
+**Doi**: https://doi.org/10.1590/1678-4499.20210262 
 
 ##Content
 
