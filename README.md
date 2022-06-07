@@ -1,6 +1,6 @@
 # Evangelista-et-al-BRAGANTIA-2022
 
-##Description
+## Description
 
 This repository was created to story the supplementary material of the article published in the journal BRAGANTIA.
 
@@ -10,6 +10,6 @@ This repository was created to story the supplementary material of the article p
 
 **Doi**: https://doi.org/10.1590/1678-4499.20210262 
 
-##Content
+## Content
 
 **Table S1.** Phenotypic dataset used in the analyses. ID = identification of each observation. Rep = repetitions. Prog = Progenies. Yield_1 to Yield_6 represents the six measurements taken for the trait Yield.
