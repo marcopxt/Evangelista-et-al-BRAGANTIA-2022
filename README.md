@@ -6,7 +6,7 @@ This repository was created to story the supplementary material of the article p
 
 **Title:** Genetic evaluation and selection in *Jatropha curcas* through Frequentist and Bayesian inferences
 
-**Author:** Evangelista, J.S.P.C., Peixoto, M.A., Coelho, I., Alves, R., Resende, M.D.V., Silva, F.F., Laviola, B. and Bhering, L.L.
+**Authors:** Evangelista, J.S.P.C., Peixoto, M.A., Coelho, I., Alves, R., Resende, M.D.V., Silva, F.F., Laviola, B. and Bhering, L.L.
 
 **Doi**: https://doi.org/10.1590/1678-4499.20210262 
 
