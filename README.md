@@ -12,4 +12,4 @@ This repository was created to story the supplementary material of the article p
 
 ## Content
 
-**Table S1.** Phenotypic dataset used in the analyses. ID = identification of each observation. Rep = repetitions. Prog = Progenies. Yield_1 to Yield_6 represents the six measurements taken for the trait Yield.
+**Table S1.** Phenotypic dataset used in the analyses. ID = identification of each observation. Rep = repetitions. Prog = Progenies. Yield_1 to Yield_6 represents the six measurements taken for the trait *Yield*.
