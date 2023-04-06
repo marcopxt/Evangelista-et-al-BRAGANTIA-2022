@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository was created to story the supplementary material of the article published in the journal BRAGANTIA.
+This repository was created to store the supplementary material of the article published in the journal BRAGANTIA.
 
 **Title:** Genetic evaluation and selection in *Jatropha curcas* through Frequentist and Bayesian inferences
 
