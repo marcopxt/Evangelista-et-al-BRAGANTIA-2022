@@ -13,3 +13,13 @@ This repository was created to store the supplementary material of the article p
 ## Content
 
 **Table S1.** Phenotypic dataset used in the analyses. ID = identification of each observation. Rep = repetitions. Prog = Progenies. Yield_1 to Yield_6 represents the six measurements taken for the trait *Yield*.
+
+
+Any question about the analyses, please, contact me!
+
+Marco
+
+
+M.Sc. Marco Antonio Peixoto  
+Email: deamorimpeixotom@ufl.edu  
+Page: https://marcopxt.github.io/  
